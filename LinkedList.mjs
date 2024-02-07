@@ -99,5 +99,6 @@ class LinkedList {
     return currentNode;
   }
 }
+// 구현완료
 
 export { Node, LinkedList };
